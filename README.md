@@ -68,7 +68,7 @@ To Restart Bor service:
 
 Clone the Prometheus repository to your remote machine
 
-`git clone https://github.com/maticnetwork/node-prometheus.git`
+`git clone https://github.com/raymondfx/node-prometheus.git`
 
 And then switch to the Prometheus directory.
 
