@@ -7,11 +7,11 @@ Monitor your Heimdall, Bor and Virtual machine node with Prometheus and Grafana
 
 Blockchain Dashboard
 
-http://161.97.77.214:3000/d/UJyurCT123/heimdall-dashboard?orgId=1&refresh=10s
+https://snapshot.raintank.io/dashboard/snapshot/0d6c913vSVOY8nGVl1H1BtMbsJ2zEThT
 
 System Dashboard
 
-http://161.97.77.214:3000/d/FPpjH6Hik/bor-dashboard?orgId=1&refresh=10s&from=1614157167981&to=1614158967981&var-tx_pool_counters=All&var-job=geth&var-quantile=0.95
+https://snapshot.raintank.io/dashboard/snapshot/M11cy8Nw2BWRPcLnyNYvwISK90BQX0tG
 
 
 
