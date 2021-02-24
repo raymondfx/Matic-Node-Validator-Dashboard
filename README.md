@@ -3,14 +3,19 @@
 Monitor your Heimdall, Bor and Virtual machine node with Prometheus and Grafana
 
 
-## Grafana default login details
+## Grafana dashboard snapshot details
 
-These login credentials can be changed according to user preferences once logged in:
+Blockchain Dashboard
 
-```
-username: admin
-password: admin
-```
+http://161.97.77.214:3000/d/UJyurCT123/heimdall-dashboard?orgId=1&refresh=10s
+
+System Dashboard
+
+http://161.97.77.214:3000/d/FPpjH6Hik/bor-dashboard?orgId=1&refresh=10s&from=1614157167981&to=1614158967981&var-tx_pool_counters=All&var-job=geth&var-quantile=0.95
+
+
+
+
 
 ## Grafana datasource configuration and navigation snapshots
 
